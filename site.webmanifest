@@ -1,0 +1,14 @@
+{
+  "name": "Studio Marjorie Pires",
+  "short_name": "Marjorie Pires",
+  "description": "Body piercing e estética facial no Centro de Lages/SC.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#fefbd4",
+  "theme_color": "#c7e9e5",
+  "icons": [
+    { "src": "assets/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
