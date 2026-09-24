@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vinipn.github.io/studio-marjorie-pires/sitemap.xml
+Sitemap: https://www.studiomarjoriepires.com.br/sitemap.xml
