@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Depois de registrar o domínio, troque SEU-DOMINIO e descomente a linha abaixo:
-# Sitemap: https://www.SEU-DOMINIO.com.br/sitemap.xml
+Sitemap: https://vinipn.github.io/studio-marjorie-pires/sitemap.xml
